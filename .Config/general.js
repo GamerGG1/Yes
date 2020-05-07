@@ -1,5 +1,5 @@
 module.exports = {
-  token: "NTg3NjQ3MzI2NjAwODIyNzk2.XrQmAg.nK7Ab_Y61wM3oeeT7eYpY_pgOXg",
+  token: "NTg3NjQ3MzI2NjAwODIyNzk2.XrQoMQ.hN2_F-ulADD5BgU3XbG6GHCH5dQ",
   prefix: "T!",
   elevated: [""],
   commands: "./Commands",
